@@ -1,5 +1,5 @@
 export default {
-  // 填入你的OPENAI_API_KEY
+  // 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
   OPENAI_API_KEY: '',
   // 设置获取消息的重试次数
   retryTimes: 3,
